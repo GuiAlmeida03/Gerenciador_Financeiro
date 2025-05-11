@@ -1,0 +1,33 @@
+{
+    "balance": 2062.0,
+    "transactions": [
+        {
+            "type": "receita",
+            "amount": 1999.0,
+            "date": "2025-05-10",
+            "category": "Roupa",
+            "description": "Bermudas/Shorts/Cuecas"
+        },
+        {
+            "type": "despesa",
+            "amount": 400.0,
+            "date": "2025-05-11",
+            "category": "Contas",
+            "description": "Conta de luz"
+        },
+        {
+            "type": "receita",
+            "amount": 500.0,
+            "date": "2025-05-09",
+            "category": "Videogame",
+            "description": "Ps7"
+        },
+        {
+            "type": "despesa",
+            "amount": 37.0,
+            "date": "2025-05-11",
+            "category": "Comida",
+            "description": "X-Salada VPN"
+        }
+    ]
+}
