@@ -1,17 +1,1 @@
-(O sistema não possui dependências externas além da biblioteca padrão do Python)
-
-## models/__init__.py
-```python
-# Pacote para os modelos de dados
-
-## services/__init__.py
-```python
-# Pacote para os serviços de negócios
-
-## ui/__init__.py
-```python
-# Pacote para a interface de usuário
-
-## tests/__init__.py
-```python
-# Pacote para testes
+# Este projeto não possui dependências externas além da biblioteca padrão do Python.
