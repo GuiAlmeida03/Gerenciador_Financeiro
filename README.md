@@ -112,3 +112,9 @@ gestor_financeiro/
 Para executar os testes automatizados, use:
 
 python -m unittest discover tests
+
+## Integrantes 
+
+Guilherme Almeida - 559977
+Vitor Adauto - 560247
+Renato Barros - 559702
