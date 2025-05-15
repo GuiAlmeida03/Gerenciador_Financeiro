@@ -16,7 +16,7 @@ Um sistema de gestão financeira pessoal via terminal, desenvolvido em Python, q
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gestor-financeiro.git
+   git clone https://github.com/GuiAlmeida03/gestor-financeiro.git
    cd gestor-financeiro
 
 2. ( Opcional ) Crie um ambiente virtual: 
